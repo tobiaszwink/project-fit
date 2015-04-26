@@ -46,4 +46,52 @@ body {
 
 /* fim header */
 
-/* Section */
+/* section */
+
+.main {
+  background-color: #FFE4C4;
+  margin-top: 20px;
+  border-radius: 5px 5px 5px;
+  box-shadow: 1px 2px 3px;
+}
+.praia {
+  height: 300px;
+  border-top: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.praia h2 {
+  margin: 0 0 0 20px;
+  padding-top: 10px;
+  color: blue;
+
+
+}
+
+.praia img {
+  width: 300px;
+  height: 200px;
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 2px;
+
+}
+
+.clear {
+  clear: both;
+}
+
+/* Fim section */
+
+/* footer */
+.footer {
+  background-color: gray;
+  border-radius: 5px 5px 5px;
+}
+
+.footer p {
+  text-align: center;
+}
+
